@@ -2,7 +2,7 @@
 
 ### Resumen
 
-La pandemia del COVID-19 ha afectado a muchas familias bla bla bla.
+La pandemia del COVID-19 ha afectado a muchas familias bla bla bla. Las medidas que han tomado las autoridades bla bla bla.
 
 ## Introducción
 
