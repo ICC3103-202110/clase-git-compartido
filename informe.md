@@ -6,6 +6,8 @@ La pandemia del COVID-19 ha afectado a muchas familias bla bla bla. Las medidas 
 
 ## Introducción
 
+La pandemia del COVID-19 ha afectado a muchas familias bla bla bla.
+
 ## Desarrollo
 
 ## Conclusión
